@@ -18,5 +18,15 @@ class Solution {
             index++;                 //fill remaing space with zero
         }
         System.out.println(Arrays.toString(nums));
+        int nonZero = 0;
+
+        for (int current = 0; current < nums.length; current++) {
+            if (nums[current] != 0) {
+                int temp = nums[nonZero];
+                nums[nonZero] = nums[current];
+                nums[current] = temp;
+                nonZero++;
+            }
+        }
     }
 } 
