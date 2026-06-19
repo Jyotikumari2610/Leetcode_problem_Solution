@@ -6,7 +6,7 @@ Output: 2
 import java.util.*;
 class Solution {
     public int searchInsert(int[] nums, int target) {
-        for(int i=0;i<nums.length;i++){
+     /*   for(int i=0;i<nums.length;i++){
             if(nums[i]==target){
                 return i;
             }
@@ -14,6 +14,26 @@ class Solution {
              return i;       //insert as middle element of the array 
         }
         return nums.length;   //if target element is not found the indert it as last elemet of array
+        //we are not using because interviewers must not be happy with this because its time complexity is O(n) but in description of
+        questions its mentioned that the time complexity must be O(log n).
+        */
+        //we use binary search to reduce time complexity
+        int start =0;
+        int end=nums.length-1;
+        while(start<=end){
+            int mid=start+(end-start)/2;
+            if(nums[mid]==target){
+                return mid;
+            }
+            else if(nums[mid]>target){
+                end=mid-1;
+            }
+            else {
+                start=mid+1;
+            }
+        }
+        return start;
+        
 
     }
     public static void main(String args[]){
