@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0059-spiral-matrix-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0410-split-array-largest-sum) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1539-kth-missing-positive-number) |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0013-roman-to-integer) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
