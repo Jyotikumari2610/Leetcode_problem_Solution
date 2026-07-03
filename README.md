@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0043-multiply-strings) |
+| [0205-isomorphic-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0205-isomorphic-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Matrix
 |  |
