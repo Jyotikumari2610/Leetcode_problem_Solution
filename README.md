@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0605-can-place-flowers) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
 | ------- |
