@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0410-split-array-largest-sum) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0043-multiply-strings) |
+| [0179-largest-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0344-reverse-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
