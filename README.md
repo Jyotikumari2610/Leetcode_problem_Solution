@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Matrix
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
