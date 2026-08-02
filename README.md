@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0605-can-place-flowers) |
+| [1903-largest-odd-number-in-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0043-multiply-strings) |
 | [0367-valid-perfect-square](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Matrix
 |  |
