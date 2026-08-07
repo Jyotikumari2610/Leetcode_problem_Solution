@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0367-valid-perfect-square) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0258-add-digits) |
 ## Stack
 |  |
 | ------- |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0342-power-of-four) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
