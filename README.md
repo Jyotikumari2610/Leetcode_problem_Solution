@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0409-longest-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1903-largest-odd-number-in-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
