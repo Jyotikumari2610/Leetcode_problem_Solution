@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0258-add-digits) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
 | ------- |
