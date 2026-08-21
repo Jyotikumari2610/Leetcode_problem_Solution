@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0409-longest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3731-find-missing-elements) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0409-longest-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1903-largest-odd-number-in-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0389-find-the-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [3731-find-missing-elements](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3731-find-missing-elements) |
 ## String Matching
