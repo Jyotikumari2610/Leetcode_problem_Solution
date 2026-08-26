@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0326-power-of-three) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0147-insertion-sort-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
