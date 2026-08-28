@@ -2,6 +2,14 @@ class Solution {
     public int maximumGap(int[] nums) {
         int n=nums.length;
         if(n<2) return 0;
+        Arrays.sort(nums);
+        int maxGap=0;
+        for(int i=1;i<n;i++){
+            int gap=nums[i]-nums[i-1];
+            maxGap=Math.max(maxGap,gap);
+        }
+        return maxGap;
+        /*
         int min=nums[0];
         int max=nums[0];
         for(int num:nums){
@@ -35,5 +43,6 @@ class Solution {
             previousMax=maxBuk[buk];
         }
         return maxGap;
+        */
     }
 }
