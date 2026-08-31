@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0074-search-a-2d-matrix) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0164-maximum-gap) |
