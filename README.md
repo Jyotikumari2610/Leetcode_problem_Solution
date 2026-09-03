@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0240-search-a-2d-matrix-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0326-power-of-three) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0258-add-digits) |
 ## Linked List
 |  |
@@ -241,4 +244,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
