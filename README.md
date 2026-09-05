@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0072-edit-distance) |
 | [0410-split-array-largest-sum](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0205-isomorphic-strings) |
