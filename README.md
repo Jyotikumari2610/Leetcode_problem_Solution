@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0326-power-of-three) |
@@ -262,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
