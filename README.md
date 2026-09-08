@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
