@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0043-multiply-strings) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0326-power-of-three) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0002-add-two-numbers) |
 | [0147-insertion-sort-list](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0147-insertion-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
