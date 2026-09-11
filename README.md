@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0409-longest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Primality Test
 |  |
 | ------- |
