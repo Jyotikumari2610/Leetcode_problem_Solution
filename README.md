@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/2235-add-two-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3871-count-commas-in-range-ii) |
