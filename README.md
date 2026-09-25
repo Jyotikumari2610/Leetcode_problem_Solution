@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0072-edit-distance) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0049-group-anagrams) |
@@ -290,4 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
