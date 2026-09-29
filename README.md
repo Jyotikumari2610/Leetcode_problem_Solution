@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0072-edit-distance) |
 | [0410-split-array-largest-sum](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0410-split-array-largest-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0202-happy-number) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0022-generate-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
