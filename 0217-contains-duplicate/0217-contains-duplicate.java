@@ -17,6 +17,15 @@ class Solution {
             }
         }
         //time complexity of this code will be O(n log n)
+
+        //agr time complexity aur kmm krna h that is O(n) to yha p hmlog hashset use kr sakte h bcoz as we know hashset alway contains unique elements 
+        HashSet<Integer> set=new HashSet<>();
+        for(int num:nums){
+            if(set.contains(num)){
+                return true;
+            }
+            set.add(num);
+        }
         return false;
     }
 }
