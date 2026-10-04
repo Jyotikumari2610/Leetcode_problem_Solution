@@ -19,7 +19,7 @@ class Solution {
          prefix+=ch;
      }
     return prefix;*/
-    Arrays.sort(strs);
+   /*Arrays.sort(strs);
     String fst=strs[0];
     String lst=strs[strs.length-1];
     int minLngth=Math.min(fst.length(),lst.length());
@@ -27,7 +27,17 @@ class Solution {
     while(i<minLngth && fst.charAt(i)==lst.charAt(i)){
         i++;
     }
-    return fst.substring(0,i);
+    return fst.substring(0,i);*/
+    String ans=strs[0];
+    for (int i=1;i<strs.length;i++){
+        while(!strs[i].startsWith(ans)){
+            ans=ans.substring(0,ans.length()-1);
+            if(ans.length()==0){
+                return "";
+                }
+            }
+        }
+        return ans;
   }
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
