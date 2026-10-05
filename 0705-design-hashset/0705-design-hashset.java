@@ -1,5 +1,5 @@
 class MyHashSet{
-    private boolean arr[];
+     boolean arr[];
     public MyHashSet() {
         arr=new boolean[1000001];
     }
