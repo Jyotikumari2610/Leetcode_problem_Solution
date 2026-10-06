@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0705-design-hashset) |
+| [0912-sort-an-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1539-kth-missing-positive-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0912-sort-an-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -272,10 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -332,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0705-design-hashset) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
