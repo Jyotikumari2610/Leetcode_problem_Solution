@@ -7,7 +7,7 @@ class Solution {
             if(level>0) result.append(ch);
             level++;
             }
-        else if(ch==')'){
+        else {
             level--;
             if(level>0) result.append(ch);
             } 
