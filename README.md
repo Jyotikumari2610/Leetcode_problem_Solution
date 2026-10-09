@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0605-can-place-flowers) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0409-longest-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Combinatorics
 |  |
 | ------- |
