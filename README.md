@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0409-longest-palindrome) |
 | [0705-design-hashset](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0706-design-hashmap) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3731-find-missing-elements) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0002-add-two-numbers) |
 | [0147-insertion-sort-list](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0147-insertion-sort-list) |
 | [0705-design-hashset](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0706-design-hashmap) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -345,10 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0706-design-hashmap) |
 ## Merge Sort
 |  |
 | ------- |
