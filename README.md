@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2784-check-if-array-is-good](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/2784-check-if-array-is-good) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3524-find-x-value-of-array-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0409-longest-palindrome) |
 | [0705-design-hashset](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0706-design-hashmap) |
+| [2784-check-if-array-is-good](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/2784-check-if-array-is-good) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3731-find-missing-elements) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2784-check-if-array-is-good](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
