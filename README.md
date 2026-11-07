@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0347-top-k-frequent-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0347-top-k-frequent-elements) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0219-contains-duplicate-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
 |  |
