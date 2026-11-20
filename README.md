@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0074-search-a-2d-matrix) |
+| [0137-single-number-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0067-add-binary) |
+| [0137-single-number-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0371-sum-of-two-integers) |
