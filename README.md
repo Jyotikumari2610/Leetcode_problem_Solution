@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0002-add-two-numbers) |
+| [0092-reverse-linked-list-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0705-design-hashset) |
