@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0507-perfect-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0680-valid-palindrome-ii) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0415-add-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
