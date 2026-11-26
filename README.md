@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/2235-add-two-integers) |
+| [3360-stone-removal-game](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/0415-add-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Jyotikumari2610/Leetcode_problem_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
